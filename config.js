@@ -2,13 +2,13 @@
 exports.games = {
 	clash: false,
 	royale: false,
-	brawl: false
+	brawl: true
 };
 
 // Set the mail and password below (for global) only if they are same across all the developer portals
 exports.global = {
-	mail: null,
-	password: null
+	mail: bryan.dumont@gmail.com,
+	password: a5e3t7brawlstars
 };
 
 // Your mail and password at https://developer.clashofclans.com
